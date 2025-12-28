@@ -14,8 +14,8 @@ export default function SignUp() {
     firstName: '',
     lastName: '',
     email: '',
-    phone: '0771234567',
-    nic: '',
+    phone: '077ooooooo',
+    nic: '00000000000000',
     password: '',
     confirmPassword: ''
   });
